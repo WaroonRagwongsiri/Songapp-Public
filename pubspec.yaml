@@ -1,5 +1,5 @@
-name: songapp_public
-description: "A new Flutter project."
+name: songapp
+description: "spotify clone"
 publish_to: 'none'
 version: 0.1.0
 
