@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115417505137",
+    "project_id": "songapp-db564",
+    "storage_bucket": "songapp-db564.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115417505137:android:bad1423002ccae5886ead0",
+        "android_client_info": {
+          "package_name": "com.example.songapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw139KvVyuNL_xc8Sr0SxhXNjhLw5Z4SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115417505137:android:321ac3d808166eeb86ead0",
+        "android_client_info": {
+          "package_name": "com.example.songapp_public"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw139KvVyuNL_xc8Sr0SxhXNjhLw5Z4SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
