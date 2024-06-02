@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:songapp_public/auth.dart';
+import 'package:songapp/auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 class LoginPage extends StatefulWidget {
@@ -96,6 +96,7 @@ class _LoginPageState extends State<LoginPage> {
               decoration: const InputDecoration(hintText: 'password'),
               keyboardType: TextInputType.visiblePassword,
               controller: _passwordController,
+              obscureText: true,
             ),
             ElevatedButton(
               onPressed: () => login(
@@ -150,6 +151,7 @@ class _LoginPageState extends State<LoginPage> {
               decoration: const InputDecoration(hintText: 'password'),
               keyboardType: TextInputType.visiblePassword,
               controller: _passwordController,
+              obscureText: true,
             ),
             ElevatedButton(
               onPressed: () => register(

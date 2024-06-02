@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:songapp_public/auth.dart';
-import 'package:songapp_public/pages/create_playlist.dart';
+import 'package:songapp/auth.dart';
+import 'package:songapp/pages/create_playlist.dart';
 
 class PlaylistManager extends StatefulWidget {
   final String songName;

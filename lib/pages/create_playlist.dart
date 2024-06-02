@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:songapp_public/auth.dart';
+import 'package:songapp/auth.dart';
 
 class CreatePlaylist extends StatefulWidget {
   const CreatePlaylist({super.key});

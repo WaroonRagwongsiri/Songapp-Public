@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:songapp_public/auth.dart';
-import 'package:songapp_public/pages/home.dart';
-import 'package:songapp_public/pages/loginpage.dart';
+import 'package:songapp/auth.dart';
+import 'package:songapp/pages/home.dart';
+import 'package:songapp/pages/loginpage.dart';
 
 class WidgetTree extends StatefulWidget {
   const WidgetTree({super.key});

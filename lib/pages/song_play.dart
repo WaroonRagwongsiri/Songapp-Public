@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:just_audio/just_audio.dart';
 import 'package:audio_video_progress_bar/audio_video_progress_bar.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:songapp_public/auth.dart';
+import 'package:songapp/auth.dart';
 
 class SongPlaying extends StatefulWidget {
   final String songName;

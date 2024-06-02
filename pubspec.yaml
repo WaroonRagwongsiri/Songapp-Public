@@ -23,9 +23,6 @@ dependencies:
   audio_video_progress_bar: ^2.0.2
   flutter_dotenv: ^5.1.0
 
-assets:
-  - .env
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -33,3 +30,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - .env

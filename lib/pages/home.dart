@@ -1,11 +1,11 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:share/share.dart';
-import 'package:songapp_public/auth.dart';
-import 'package:songapp_public/pages/playlist_manager.dart';
-import 'package:songapp_public/pages/create_playlist.dart';
-import 'package:songapp_public/pages/playlist.dart';
-import 'package:songapp_public/pages/song_play.dart';
+import 'package:songapp/auth.dart';
+import 'package:songapp/pages/playlist_manager.dart';
+import 'package:songapp/pages/create_playlist.dart';
+import 'package:songapp/pages/playlist.dart';
+import 'package:songapp/pages/song_play.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
